@@ -1,12 +1,19 @@
 Introduction to the HR Analytics Dashboard:
+
+
 This HR Analytics Dashboard is designed to provide a comprehensive overview of the key workforce metrics within the organization, focusing on employee attrition, job satisfaction, and demographic trends. By consolidating data from various HR functions, it enables decision-makers to gain deeper insights into areas such as attrition rates, employee demographics, education fields, and satisfaction levels across different job roles.
 
+
 DAX Measures Calculated:
+
+
 Attrition, Attrition%, Average Age, Average Salary, Average Years at Company, Total Employees
 
-Findings
 
-Here are the key findings from the HR Analytics Dashboard:
+Findings:
+
+
+Here are the key findings from the HR Analytics Dashboard
 
 •	The company is facing a significant attrition rate, with 237 employees leaving, which may be a concern for overall retention and continuity.
 
@@ -30,7 +37,10 @@ Here are the key findings from the HR Analytics Dashboard:
 
 
 
+
 Recommendations:
+
+
 •	Focus on Retention: Strategies should focus on the 26-35 age group and employees with 0-5 years of tenure to reduce high attrition.
 •	Job Satisfaction Initiatives: Improve job satisfaction, especially in roles like Sales Executive, Laboratory Technician, and Manufacturing, which show varying levels of dissatisfaction.
 •	Targeted Retention Programs: For employees in Life Sciences and Technical Degrees, offer targeted development programs to retain specialized talent.
