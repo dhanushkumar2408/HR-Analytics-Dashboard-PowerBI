@@ -2,7 +2,7 @@
 
 
 
-#### **Visualization 1: Dashboard Overview (First Image)**
+#### **Visualization 1: Dashboard Overview (Page 1)**
 
 1. **KPI Cards (Top Left)**
    - **Total Employees:** 1470
@@ -48,7 +48,7 @@
 
 ---
 
-#### **Visualization 2: In-depth Analysis (Second Image)**
+#### **Visualization 2: In-depth Analysis (Page 2)**
 
 1. **Employees by Job Role and Overtime (Stacked Bar Chart)**
    - The majority of employees in roles like Sales Representatives, Sales Executives, and Research Scientists do not work overtime (approx. 70%).
